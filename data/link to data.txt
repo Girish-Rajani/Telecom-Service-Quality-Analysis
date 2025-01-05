@@ -1,0 +1,1 @@
+https://s3.amazonaws.com/projex.dezyre.com/telecom-data-analysis-project/materials/raw_telecom_data.csv
